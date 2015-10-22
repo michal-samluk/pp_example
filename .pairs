@@ -1,0 +1,14 @@
+# .pairs - configuration for 'git pair'
+pairs:
+  # <initials>: <Firstname> <Lastname>[; <email-id>]
+  adg: Anna Domańska-Grzyb
+  bd: Beata Delura
+  bs: Bartłomiej Skwira
+  pt: Patryk Tyszka
+  pp: Piotr Protas
+  ms: Michał Samluk
+email:
+  prefix: pair
+  domain: codequest.com
+  no_solo_prefix: true
+global: false
